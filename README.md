@@ -1,36 +1,36 @@
 # web-backend
-Hybrid app for pet localization
-<table>
+<table width="100%">
 <tr>
-  <td width="33%">
+  <td>
 <h3 align="center">Login</h3>
 <div align="center">
-<img src="https://i.imgur.com/9S0T7om.jpeg" width="250" alt="pet qr login">
+<img src="https://i.imgur.com/W7DU5Z3.jpeg" width="75%" alt="login"> 
   
-
-
 </div>
                                                                                       
 </td>
+</tr>
 
-<td width="33%">
+<tr>
+<td>
 <h3 align="center">Home</h3>
 <div align="center">
-<img src="https://i.imgur.com/29N6Xci.jpeg" width="250" alt="pet qr home">
+<img src="https://i.imgur.com/fXgoO7M.jpeg" width="75%" alt="home">
   
-
 
 </div>
                                                                                       
 </td>
+</tr>
 
-<td width="33%">
-<h3 align="center">Map</h3>
+<tr>
+<td>
+<h3 align="center">Edit project</h3>
 <div align="center">                                       
-<img src="https://i.imgur.com/FVYga0y.jpeg" width="250" alt="pet qr map">
-<br>
+<img src="https://i.imgur.com/b0WmjH3.jpeg" width="75%" alt="edit project"> 
 
 
 </div>  
+</td>
 </tr>
 </table>     
